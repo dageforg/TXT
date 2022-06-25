@@ -1,0 +1,5 @@
+first_name: Ришат
+last_name: Галеев
+age: 31
+number of pets: 0
+desired Salary: 1000$
